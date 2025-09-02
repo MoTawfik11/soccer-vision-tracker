@@ -60,7 +60,7 @@ python main.py --video input_videos/game.mp4
 
   ### Screenshot from video reult
 
-  ![Sample Frame](images/annotated_frame.png)
+  ![Sample Frame](images/Screenshoot.png)
 
 
 ---
