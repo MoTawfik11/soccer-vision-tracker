@@ -40,13 +40,13 @@ cd soccer-vision-tracker
 pip install -r requirements.txt
 ```
 ---
-#Usage
+# Usage
 
 python main.py --video input_videos/game.mp4
 
 ---
 
-#Project Structure
+# Project Structure
 
 soccer-vision-tracker/
 │
@@ -63,7 +63,7 @@ soccer-vision-tracker/
 ---
 
 
-#Results
+# Results
 
 - Accurate player and ball detection in diverse lighting conditions
 
