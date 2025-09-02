@@ -49,6 +49,7 @@ python main.py --video input_videos/game.mp4
 # Project Structure
 
 soccer-vision-tracker/
+
 │
 ├── input_videos/           # Sample input videos
 ├── output_videos/          # Annotated output videos
