@@ -58,6 +58,11 @@ python main.py --video input_videos/game.mp4
 
 - Annotated video outputs ready for presentations or further analysis
 
+  ### Screenshot from video reult
+
+  ![Sample Frame](images/annotated_frame.png)
+
+
 ---
 
 
