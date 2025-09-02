@@ -42,7 +42,7 @@ pip install -r requirements.txt
 ---
 ## Usage
 
-python main.py --video input_videos/game.mp4
+python main.py --video input_videos/(Your_video_name).mp4
     
 
 ---
