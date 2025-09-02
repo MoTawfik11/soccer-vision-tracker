@@ -49,17 +49,17 @@ python main.py --video input_videos/game.mp4
 ## Project Structure
 
 soccer-vision-tracker/
-│
-├── input_videos/ # Sample input videos
-├── output_videos/ # Annotated output videos
-├── trackers/ # Tracking classes
-├── utils/ # Utility functions (video reading, saving)
-├── team_assigner.py # Team assignment logic
+├── input_videos/           # Sample input videos
+├── output_videos/          # Annotated output videos
+├── trackers/               # Tracking classes
+├── utils/                  # Utility functions (video reading, saving)
+├── team_assigner.py        # Team assignment logic
 ├── player_ball_assigner.py # Player-ball assignment logic
-├── view_transformer.py # Perspective transformation logic
-├── main.py # Entry point of the project
-├── requirements.txt
-└── README.md
+├── view_transformer.py     # Perspective transformation logic
+├── main.py                 # Entry point of the project
+├── requirements.txt        # Project dependencies
+└── README.md               # Project documentation
+
 ---
 
 
